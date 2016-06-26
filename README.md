@@ -1,7 +1,7 @@
 Mnemonic Words Finder
 =====================
 
-Is simple project which helps find relevant words for memorizing numbers by technique called [Mnemonic system](https://en.wikipedia.org/wiki/Mnemonic_major_systemS).
+Is simple project which helps find relevant words for memorizing numbers by technique called [Mnemonic system](https://en.wikipedia.org/wiki/Mnemonic_major_system).
 
 The system is that each numeral is associated with one or more consonants. For example:
 
